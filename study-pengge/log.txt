@@ -1,0 +1,10 @@
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=0
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=1
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=2
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=3
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=4
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=5
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=6
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=7
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=8
+file:pretreatment.c line:18 date:Sep 23 2023 time:22:48:49 i=9
